@@ -77,6 +77,14 @@
 
 <hr>
 
+## :cloud: One-Click Deploy
+
+<a href="https://repocloud.io/details/Super%20Productivity/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/super-productivity"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
+- RepoCloud: One-click template, no other instructions required.
+- Railway: After deploying, open the public domain and sign in as `owner` with the `OWNER_PASSWORD` service variable ([template page](https://railway.com/deploy/super-productivity)).
+
 ## :heavy_check_mark: Features
 
 - **Keep organized and focused!** Plan and categorize your tasks using sub-tasks, projects and tags and color code them as needed.
